@@ -15,9 +15,10 @@ Older releases are at <https://github.com/sorokin-vladimir/tele/releases>.
 
 - Rich messages render their structure instead of collapsing to plain text:
   paragraphs, headings, subtitles and footers, bulleted and numbered lists,
-  block quotes and pull quotes, details, preformatted code, tables with bold
-  header cells and bordered grids, dividers, bylines, related-article
-  suggestions, channel references and media placeholders (#308).
+  block quotes and pull quotes, collapsible details (collapsed by default,
+  toggleable with `z`), preformatted code, tables with bold header cells and
+  bordered grids, dividers, bylines, related-article suggestions, channel
+  references and media placeholders (#308).
 - Private chats with forum-enabled bots (`BotForumView`) open their topic
   list and route topic read and typing updates to the active topic (#371).
 
