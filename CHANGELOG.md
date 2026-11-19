@@ -18,6 +18,8 @@ Older releases are at <https://github.com/sorokin-vladimir/tele/releases>.
   block quotes and pull quotes, details, preformatted code, tables with bold
   header cells and bordered grids, dividers, bylines, related-article
   suggestions, channel references and media placeholders (#308).
+- Private chats with forum-enabled bots (`BotForumView`) open their topic
+  list and route topic read and typing updates to the active topic (#371).
 
 ## [2.1.3] - 2026-11-13
 
